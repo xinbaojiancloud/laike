@@ -1,0 +1,19 @@
+/build/
+*/build/
+/out/
+*/out/
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+.idea/*
+*.iws
+*.iml
+*.ipr
+*/src/generated/
+/target/
+*/target/
+rebel.xml
+
+*.exe
+*.txt
